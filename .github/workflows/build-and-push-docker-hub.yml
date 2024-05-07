@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: hiepma/cicd2024:staging
+          tags: hiepma/cicd2024:staging2
 
 
   pull-and-up:
